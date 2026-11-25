@@ -1,0 +1,10 @@
+{
+  "name": "golden-sip-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Golden Sip Café - digital menu with WhatsApp ordering and owner-only admin panel",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "dev": "node dev-server.js"
+  }
+}
